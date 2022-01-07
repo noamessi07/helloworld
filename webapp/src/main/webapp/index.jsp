@@ -5,8 +5,7 @@
 <h1> I can't wait for you to start making big $$$$ doing this  </h1>
 <h1> This line is for docker test  </h1>
 <h1> I will be successful by the grace of God  </h1>
-<h1> I am almost close to my goal </h1>
-<h1> This is the final round </h1>
+
 
 
 
